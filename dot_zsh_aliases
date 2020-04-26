@@ -5,4 +5,7 @@ alias pacup='sudo pacman -Syyu'
 # Im usually using vscode-insiders
 alias code='code-insiders'
 
+# use arch ascii art for neofetch
+alias neofetch='neofetch --ascii_distro arch'
+
 export alias dotDir='~/.local/share/chezmoi'
