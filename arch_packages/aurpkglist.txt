@@ -1,4 +1,6 @@
 autoenv-git
+gotop
+libguestfs
 sharenix-git
 snapd
 spotify

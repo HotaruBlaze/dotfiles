@@ -31,6 +31,7 @@ docker
 dos2unix
 drkonqi
 e2fsprogs
+ebtables
 efibootmgr
 endeavouros-keyring
 endeavouros-mirrorlist
@@ -97,6 +98,7 @@ kwallet-pam
 kwayland-integration
 kwin
 kwrited
+latte-dock
 less
 lib32-nvidia-utils
 libdvdcss
@@ -176,6 +178,7 @@ powerdevil
 powerline-fonts
 pptpclient
 pulseaudio
+qemu
 r8168
 reflector
 reiserfsprogs
@@ -204,7 +207,10 @@ upower
 usb_modeswitch
 usbutils
 user-manager
+vde2
 vi
+virt-manager
+virt-viewer
 welcome
 wget
 which
