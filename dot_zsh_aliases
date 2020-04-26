@@ -1,0 +1,8 @@
+# Phoenix's Terminal Alias's
+alias nvidia-settings='sudo nvidia-settings'
+alias pacup='sudo pacman -Syyu'
+
+# Im usually using vscode-insiders
+alias code='code-insiders'
+
+export alias dotDir='~/.local/share/chezmoi'

@@ -1,0 +1,6 @@
+autoenv-git
+sharenix-git
+snapd
+spotify
+srain
+visual-studio-code-insiders
