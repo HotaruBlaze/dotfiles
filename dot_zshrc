@@ -106,7 +106,10 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 #I dont know vim, and i hate that CTRL + C corrupts the session.
-EDITOR=nano
+export EDITOR=nano
+
+# Set XDG_CONFIG_HOME(Not required but done for simplicity)z
+export XDG_CONFIG_HOME=$HOME/.config
 
 #Load Aliases
 source $HOME/.zsh_aliases
